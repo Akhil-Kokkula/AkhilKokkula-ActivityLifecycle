@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">[Akhil Kokkula]ActivityLifecycle</string>
+    <string name="button_click_text">Hello</string>
 </resources>
